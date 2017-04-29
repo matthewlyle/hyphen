@@ -14,46 +14,6 @@ Hyphens is based on Underscores http://underscores.me/ but without any of the de
 classes.
 
 */
-html, body {
-  margin: 0;
-  font-family: 'Lato';
-  font-size: 18px;
-  -webkit-font-smoothing: antialiased; }
-
-a {
-  text-decoration: none; }
-
-h1, h2, h3 {
-  font-family: "Filson Soft"; }
-
-h2 {
-  margin: 0; }
-
-.p {
-  padding: 2em; }
-
-.p-l {
-  padding: 3em; }
-
-.bg-black {
-  background: #121619; }
-
-.bg-green {
-  background: #09814A; }
-
-.t-white {
-  color: #fff; }
-
-.container {
-  max-width: 40rem;
-  margin: 0 auto; }
-
-.t-white a {
-  color: #fff; }
-
-.t-s {
-  font-size: 14px; }
-
 /*--------------------------------------------------------------
 # Accessibility
 --------------------------------------------------------------*/
