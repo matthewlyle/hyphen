@@ -1,8 +1,5 @@
-	</div>
-
-	<footer role="contentinfo">
-	</footer>
-</div>
+<footer role="contentinfo">
+</footer>
 
 <?php wp_footer(); ?>
 
