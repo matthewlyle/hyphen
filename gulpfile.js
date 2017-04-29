@@ -13,7 +13,7 @@ gulp.task('styles', function () {
 gulp.task('scripts', function(){
   var list = [];
   return gulp.src(['./js/vendor/*/*.js', './js/scripts.js'])
-    .pipe(concat('mortified.min.js'))
+    .pipe(concat('scripts.min.js'))
     .pipe(uglify()).on('error', gutil.log)
     .pipe(gulp.dest('./'))
 })
